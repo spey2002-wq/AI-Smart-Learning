@@ -33,3 +33,4 @@ Starter web app scaffold using Next.js (App Router), Tailwind CSS, and TypeScrip
    npm run prisma:migrate -- --name init-learning-models
    ```
 # AI-Smart-Learning
+# AI-Smart-Learning
